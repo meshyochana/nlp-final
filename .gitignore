@@ -159,4 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Project specific dataset dirs
 the_pile_deduplicated/
+stable-vicuna-13b/
